@@ -1,10 +1,13 @@
 {
   "name": "next-preactx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin to enable Preact@>10 to a next project",
   "main": "index.js",
   "keywords": [
-    ""
+    "next",
+    "nextjs",
+    "preact",
+    "plugin"
   ],
   "author": "Matt Styles ",
   "repository": {
